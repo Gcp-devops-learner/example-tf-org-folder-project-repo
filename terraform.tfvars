@@ -2,8 +2,14 @@
 #Formlabs Org Info
 
 
-org_id          = "678233521001"
-billing_account = "011D0C-1A8549-C0EFB4"
+# org_id          = "678233521001"
+# billing_account = "011D0C-1A8549-C0EFB4"
+# folder_id       = "405896588991"
+
+
+
+org_id          = "baljeetkaursce.joonix.net"
+billing_account = "01EC42-60DAEA-EF98C0"
 folder_id       = "405896588991"
 
 names = [
